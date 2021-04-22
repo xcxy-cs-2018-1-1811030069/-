@@ -1,0 +1,32 @@
+{
+  "RECORDS": [
+    {
+      "_id": "6080fc5ef31100009100630a",
+      "community": "哈哈社区",
+      "constitutor": "哈哈",
+      "id": "1",
+      "satisfactiondegree": "满意"
+    },
+    {
+      "_id": "6080fc5ef31100009100630b",
+      "community": "呵呵社区",
+      "constitutor": "呵呵",
+      "id": "2",
+      "satisfactiondegree": "满意"
+    },
+    {
+      "_id": "6080fc5ef31100009100630c",
+      "community": "哼哼社区",
+      "constitutor": "哼哼",
+      "id": "3",
+      "satisfactiondegree": "一般"
+    },
+    {
+      "_id": "6080fc5ef31100009100630d",
+      "community": "吱吱社区",
+      "constitutor": "吱吱",
+      "id": "4",
+      "satisfactiondegree": "不满意"
+    }
+  ]
+}
